@@ -1,0 +1,9 @@
+[submodule "lib/dokuwikixmlrpc"]
+	path = lib/dokuwikixmlrpc
+	url = https://github.com/chimeric/dokuwikixmlrpc.git
+[submodule "lib/mediawiki-parser"]
+	path = lib/mediawiki-parser
+	url = https://github.com/alice-wl/mediawiki-parser.git
+[submodule "lib/pijnu"]
+	path = lib/pijnu
+	url = https://github.com/erikrose/pijnu.git
